@@ -24,7 +24,7 @@
     "fetch": "^1.1.0",
     "fetch-mock": "^9.10.1",
     "mocha": "^7.2.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "react-hot-loader": "^4.12.21",
     "sinon": "^9.0.2",
     "style-loader": "^1.2.1",
